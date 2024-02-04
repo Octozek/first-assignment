@@ -1,4 +1,4 @@
-### Horiseon SEO website
+# Horiseon SEO website
 
 ## Description
 
